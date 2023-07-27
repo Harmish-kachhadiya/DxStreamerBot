@@ -25,7 +25,7 @@
 <details><summary>Deploy To Render</summary>
 <p>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/DX-MODS/DxStreamerBot">
+<a href="https://render.com/deploy?repo=https://github.com/Harmish77/DxStreamerBot">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy">
 </a>
 </p>
@@ -34,7 +34,7 @@
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/DX-MODS/DxStreamerBot&env[PORT]&env[API_ID]&env[API_HASH]&env[BOT_TOKEN]&env[BIN_CHANNEL]&env[DATABASE_URL]&env[UPDATES_CHANNEL]&env[WORKERS]=4&env[OWNER_USERNAME]&env[OWNER_ID]&env[APP_NAME]&run_command=python -m Dxbots &branch=main&name=dxstreamerbot">
+<a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Harmish77/DxStreamerBot&env[PORT]&env[API_ID]&env[API_HASH]&env[BOT_TOKEN]&env[BIN_CHANNEL]&env[DATABASE_URL]&env[UPDATES_CHANNEL]&env[WORKERS]=4&env[OWNER_USERNAME]&env[OWNER_ID]&env[APP_NAME]&run_command=python -m Dxbots &branch=main&name=dxstreamerbot">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -43,7 +43,7 @@
 <details><summary>Deploy To Railway</summary>
 <p>
 <br>
-<a href="https://railway.app/new/template/wDcfYA?referralCode=DX-MODS">
+<a href="https://railway.app/new/template/wDcfYA?referralCode=Harmish77">
   <img src="https://railway.app/button.svg" alt="Deploy">
 </a>
 </p>
@@ -52,7 +52,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/DX-MODS/DxStreamerBot">
+<a href="https://heroku.com/deploy?template=https://github.com/Harmish77/DxStreamerBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -84,7 +84,7 @@
 
 
 ```py
-git clone https://github.com/DX-MODS/DxStreamerBot
+git clone https://github.com/Harmish77/DxStreamerBot
 cd DxStreamerBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -167,5 +167,5 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
 ### Credits : 
-- A Project Done By❤️ [ZIYAN](https://github.com/DX-MODS) for helping us in this journey. ❤️
+- A Project Done By❤️ [ZIYAN](https://github.com/Harmish77) for helping us in this journey. ❤️
 - Thanks To Adarsh For This Wonderful Project[Adarsh-Goel](https://github.com/adarsh-goel)
